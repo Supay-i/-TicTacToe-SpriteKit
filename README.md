@@ -5,15 +5,18 @@ iOS-игра «Крестики-нолики», реализованная на 
 ## Описание
 Классическая логическая игра для двух игроков на поле 3×3 или увеличенном поле 5×5 (победа — 4 метки подряд). Поддерживается игра «на одном устройстве» и игра против компьютера.
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-08-17 at 16 17 21" src="https://github.com/user-attachments/assets/fd130f76-212f-4c6b-815c-a41924d4bf19" />
+<img width="352" height="762" alt="Снимок экрана 2026-08-17 в 16 38 23" src="https://github.com/user-attachments/assets/4259063b-142c-4f1c-86ec-a2aa31f4b31a" />
+
 ![Главное меню] 
 *Стартовый экран — выбор размера поля, режима игры и сложности ИИ*
 
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-08-17 at 16 17 57" src="https://github.com/user-attachments/assets/fe1ae6fc-cc40-46f2-9c83-9748465d2454" />
+
 ![Ничья на поле 3×3]
 *Пример завершённой партии — ничья на классическом поле 3×3*
 
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-08-17 at 16 20 04" src="https://github.com/user-attachments/assets/ea8f48ed-546d-442a-8780-bf6f45eaf8ae" />
+
 ![Поражение на поле 5×5]
 *Игра на увеличенном поле 5×5 — победа компьютера (уровень сложности «Сложный»)*
 
